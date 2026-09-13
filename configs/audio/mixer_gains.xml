@@ -314,6 +314,8 @@
 	</path>
 
 	<path name="gain-incall_nb-speaker">
+		<ctl name="DAC2 Playback Volume" value="175 175"/>
+		<ctl name="Mono Playback Volume" value="31"/>
 	</path>
 
 	<path name="gain-incall_nb-dex-speaker">
@@ -345,6 +347,8 @@
 	</path>
 
 	<path name="gain-incall_wb-speaker">
+		<ctl name="DAC2 Playback Volume" value="175 175"/>
+		<ctl name="Mono Playback Volume" value="31"/>
 	</path>
 
 	<path name="gain-incall_wb-dex-speaker">
@@ -376,6 +380,8 @@
 	</path>
 
 	<path name="gain-volte_cp_nb-speaker">
+		<ctl name="DAC2 Playback Volume" value="175 175"/>
+		<ctl name="Mono Playback Volume" value="31"/>
 	</path>
 
 	<path name="gain-volte_cp_nb-dex-speaker">
@@ -438,6 +444,8 @@
 	</path>
 
 	<path name="gain-volte_cp_wb-speaker">
+		<ctl name="DAC2 Playback Volume" value="175 175"/>
+		<ctl name="Mono Playback Volume" value="31"/>
 	</path>
 
 	<path name="gain-volte_cp_wb-dex-speaker">
@@ -500,6 +508,8 @@
 	</path>
 
 	<path name="gain-volte_cp_evs-speaker">
+		<ctl name="DAC2 Playback Volume" value="175 175"/>
+		<ctl name="Mono Playback Volume" value="31"/>
 	</path>
 
 	<path name="gain-volte_cp_evs-dex-speaker">
